@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+onlineislemler.egm.gov.tr	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	o2j1o3febi0j545sy2bbzcks
+onlineislemler.egm.gov.tr	TRUE	/	FALSE	1999999999	SameSite	Lax
+onlineislemler.egm.gov.tr	TRUE	/	FALSE	1999999999	egmSharepoint	!50Hj32c/4CgCcM2w8ME48R3KSsrNWs/UQb0xQ5yX/yREOk+x2N4Fz90aCCupNLh3/DT4vrCnMlGl6Q==
+.onlineislemler.egm.gov.tr	TRUE	/	FALSE	1999999999	TS013c2740	01b3fa3a1487354a59f193ace974682d79dd68f7661512910edc0dc9ebedb9180b9a4800fcf93789570637a7f00ebef6badadfc6b8
+
